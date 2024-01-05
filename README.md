@@ -9,7 +9,7 @@
 
 
 
-<a href="http://ncsu.edu"><img width="80" alt="ncsu_picture" src="https://github.com/abhayk23/abhayk23/assets/87490822/31325101-2263-4b0b-95c3-921ff439e2d8"></a> 
+<a href="http://ncsu.edu"><img width="95" alt="ncsu_picture" src="https://github.com/abhayk23/abhayk23/assets/87490822/31325101-2263-4b0b-95c3-921ff439e2d8"></a> 
 <a href="http://usc.edu"><img width="80" alt="usc_logo" src="https://github.com/abhayk23/abhayk23/assets/87490822/0cc3cf0d-4377-4c15-92a8-b50b41c10868"></a>
 
 https ://github.com/abhayk23/abhayk23/assets/87490822/1d74d31c-8ba3-4ada-9a7c-6ada82ba24e4
