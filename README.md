@@ -9,8 +9,11 @@
   Education: BS in Statistics & MS in Business Analytics
 
 
-![image](https://github.com/abhayk23/abhayk23/assets/87490822/5b70f823-ebed-4419-8212-cb23378a3db3)
-  ![image](https://github.com/abhayk23/abhayk23/assets/87490822/b78212e0-b822-48b8-87e7-915bd87e0acf)
+![image](https://github.com/abhayk23/abhayk23/assets/87490822/9f6a76ea-c7aa-42a9-bc2f-ae4d2411e2be)
+
+
+
+
 
 
 
