@@ -1,5 +1,6 @@
 ### Welcome, I'm Abhay Kothari and this is my GitHub!
 ![image](https://github.com/abhayk23/abhayk23/assets/87490822/b91e9c50-6b7b-4520-8a3b-6ba6106b2814) Master of Science in Business Analytics Candidate @USC
+
 📫 How to reach me:
 <!--
 **abhayk23/abhayk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
