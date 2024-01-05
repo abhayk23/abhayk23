@@ -3,9 +3,11 @@
 
 📫How to reach me: abhaykot@usc.marshall.edu
 
-![image](https://github.com/abhayk23/abhayk23/assets/87490822/fce4c993-5c4f-4c39-90f2-3678d4bba4c2)  Resume: 
+![resumeicon](https://github.com/abhayk23/abhayk23/assets/87490822/ce932ac9-dc6e-4b97-ba22-1c7a11b357a3)
+  Resume: 
 
-![image](https://github.com/abhayk23/abhayk23/assets/87490822/3912840f-53c8-4c1b-af9b-70d44ae28afb)  Education: BS in Statistics & MS in Business Analytics
+![educationicon](https://github.com/abhayk23/abhayk23/assets/87490822/a85d5e74-8bc3-4a71-b19e-545e5dee5690)
+  Education: BS in Statistics & MS in Business Analytics
 
 
 ![image](https://github.com/abhayk23/abhayk23/assets/87490822/5b70f823-ebed-4419-8212-cb23378a3db3)
