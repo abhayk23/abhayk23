@@ -7,7 +7,6 @@
 
 🎓 Education: BS in Statistics & MS in Business Analytics 
 
-![image](https://github.com/abhayk23/abhayk23/assets/87490822/31325101-2263-4b0b-95c3-921ff439e2d8)
 
 
 <a href="http://ncsu.edu"><img width="120" alt="ncsu_picture" src="https://github.com/abhayk23/abhayk23/assets/87490822/31325101-2263-4b0b-95c3-921ff439e2d8"></a> 
