@@ -1,5 +1,5 @@
 ### Welcome, I'm Abhay Kothari and this is my GitHub!
-⚡Current Status: Master of Science in Business Analytics Candidate @USC
+⚡Currently: Master of Science in Business Analytics Candidate @USC
 
 📫How to reach me: abhaykot@usc.marshall.edu
 
