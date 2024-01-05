@@ -7,6 +7,10 @@
 
 ![image](https://github.com/abhayk23/abhayk23/assets/87490822/3912840f-53c8-4c1b-af9b-70d44ae28afb)  Education: BS in Statistics & MS in Business Analytics
 
+![image](https://github.com/abhayk23/abhayk23/assets/87490822/6e058648-d49c-42b9-bc90-ff50709d30cc)  ![image](https://github.com/abhayk23/abhayk23/assets/87490822/08e55fef-d8a7-411f-ac22-1498d725b513)
+
+
+
 
 <!--
 **abhayk23/abhayk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
