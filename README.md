@@ -8,7 +8,9 @@
 ![image](https://github.com/abhayk23/abhayk23/assets/87490822/3912840f-53c8-4c1b-af9b-70d44ae28afb)  Education: BS in Statistics & MS in Business Analytics
 
 
-![image](https://github.com/abhayk23/abhayk23/assets/87490822/6e058648-d49c-42b9-bc90-ff50709d30cc)   ![image](https://github.com/abhayk23/abhayk23/assets/87490822/08e55fef-d8a7-411f-ac22-1498d725b513)
+![image](https://github.com/abhayk23/abhayk23/assets/87490822/1415c226-00bc-4a38-967a-6aa379c42465)
+  ![image](https://github.com/abhayk23/abhayk23/assets/87490822/b78212e0-b822-48b8-87e7-915bd87e0acf)
+
 
 
 
