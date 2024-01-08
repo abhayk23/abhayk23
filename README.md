@@ -12,7 +12,7 @@
 
              
 **About Me**
-
+I have hands-on experience in Python, R, and SQL, which I utilize to leverage my statistical modeling knowledge and extract data-driven insights. My professional background includes working in the telecommunications industry as a Business Intelligence ETL Developer intern, where I collaborated with cross-cultural and cross-functional teams. Additionally, as an Analytical Consultant for a Pharmaceutical Commercial company, I further developed my communication, critical thinking, and adaptability skills. Currently pursuing an M.S. in Business Analytics at USC Marshall, I am eager to apply my data science expertise to drive meaningful results.
 
 
 
