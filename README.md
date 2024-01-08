@@ -3,7 +3,7 @@
 
 📫 How to reach me: abhaykot@usc.marshall.edu
 
-📑 Resume: 
+📑 Resume: [Resume](https://docs.google.com/document/d/1bxIgCAg3UPHZIagouqfE0WgsqVIaa1O71muWqMlIYlA/edit?usp=sharing)
 
 🎓 Education: BS in Statistics & MS in Business Analytics 
 
